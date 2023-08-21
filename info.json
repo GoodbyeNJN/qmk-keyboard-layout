@@ -35,7 +35,7 @@
         "rows": ["D1", "D2", "D3", "C6", "C7", "D5"]
     },
     "layouts": {
-        "LAYOUT_ansi": {
+        "LAYOUT": {
             "layout": [
                 { "label": "Esc", "matrix": [0, 0], "x": 0, "y": 0 },
                 { "label": "F1", "matrix": [0, 1], "x": 1, "y": 0 },
